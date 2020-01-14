@@ -1,0 +1,57 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.btn-menu{
+    color: rgb(5, 5, 129);
+}
+
+.bg-1{
+    background:  url('./fondo1.jpg') no-repeat;
+    background-size: auto;
+}
+.bg-2{
+    background:  url('./fondo2.jpg') no-repeat;
+    background-size: auto;
+}
+
+.container-fluid{
+    height: 100vh;
+    width: 100%;
+}
+
+.video-container{
+    margin: auto;
+    height: 40%;
+    width: 80%;
+}
+
+.items-container{
+    margin: auto;
+    height: 40%;
+    width: 80%;
+}
+
+.video{
+    height: 100%;
+    width: 100%;
+}
+
+.logo{
+    margin: auto;
+    height: 40%;
+    width: 80%;
+}
+
+.link{
+    font-size: 1.7em;
+    list-style: none;
+    color: #ffffff;
+}
+
+.link-2{
+    font-size: 1.2em;
+    list-style: none;
+    color: #ffffff;
+}

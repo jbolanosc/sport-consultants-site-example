@@ -1,0 +1,10 @@
+{
+    "nombre": "Bruce Wayne",
+    "edad": 32,
+    "identidad": "Batman",
+    "empresas": [
+        "Wayne Enterpises",
+        "Wayne Foundation",
+        "Wayne Tower"
+    ]
+}
